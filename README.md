@@ -33,7 +33,7 @@ This project implements a **keylogger** that captures keyboard inputs on a clien
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/Thilac01/Keylogger.git  
-   cd python-keylogger  
+   cd Keylogger  
 2.Install the required dependencies:
 bash
 ```bash
